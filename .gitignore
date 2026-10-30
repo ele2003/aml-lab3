@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Dataset
+dataset/
+
+# Checkpoint dei modelli
+checkpoints/*.pth
+
+# Wandb
+wandb/
